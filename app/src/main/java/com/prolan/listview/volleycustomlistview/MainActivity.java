@@ -1,4 +1,4 @@
-package com.prolan.listview;
+package com.prolan.listview.volleycustomlistview;
 
 import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -10,6 +10,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.VolleyLog;
 import com.android.volley.toolbox.JsonArrayRequest;
+import com.prolan.listview.R;
 import com.prolan.listview.adapter.CustomListAdapter;
 import com.prolan.listview.app.AppController;
 import com.prolan.listview.model.WorldsBillionaires;
