@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="wealthsource">#757575</color>
+    <color name="year">#949494</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#FCFCFC</color>
+    <color name="row_list_end_color">#FCFCFC</color>
+    <color name="row_list_hover_start_color">#EDF0F2</color>
+    <color name="row_list_hover_end_color">#EDF0F2</color>
+</resources>
